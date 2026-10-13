@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi ~ 👋
 
-<!--
-**somin1116/somin1116** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 About Me
 
-Here are some ideas to get you started:
+사물인식 분야와 프론트엔드를 공부하고 있어요.
+새로운 기술을 배우고 프로젝트를 만드는 것을 좋아해요.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech Stack
+
+HTML
+CSS
+JavaScript
+React
+Git
